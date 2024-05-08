@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "job-tracket",
+  "private_key_id": "d4777c99aa2f0e792c0ddc4b3d990e22c4ed3620",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQEAnIDyesRKcY\nj7QjABwBXM50XCiKO/iiGgB1luclwy8y/V6KILjhRPHlMRDQtrS+H5EadGIGIqyG\nxILyrXlwt1OrNG2pgq6GCOZ5fNcua00KYA81YPGxyAbgI6GvAd8QRPubuBGOM0+t\n5db0/dgcXAzSGxyaSHXIUbJ5fBRs8zHYvI5ItZQ2oQXhsamBqxAiC2J9JjmrgES+\n0SAwptq847sP2WGKF3JARE5kZGG8JpQouNu1p51927Q5gXipH3qeLR28FiZWzLkE\nQqBQFB/+MYVCr3PnbYZxMOFlEek0nFOirdu4NSVEn7pspIPcrAXRisb0eCSKE5TG\n/9HW2DQFAgMBAAECggEAMG47SKU2b+P/HTl+DdOdsTeAGxfEnAC/rEPvLW/12BVp\n7C2MDwz03ALnZ5kXN+3/fm3socLLenAhxrEBZim5JeKWiDiI+jcgFrUFqOvFTtnN\nMggQIjWxrNdJumyw2wLNgIT+KE4dUANjna/tbFOWNWu71EBZVRRezkUuDRczzfQW\niV/aPcv9z/dLDTyWJBVc0vWSR8SS7ENDsfKd3BCrxq3HYxXQaQW9sYfY0FFJtDMi\n0gVv4yg8IabUcYgWaERCEcyyqxShF+TX298KTNvLG3JSZ3GDJQVCehXGuilHn3H6\n8aq7jR5MvhEXOTlvtA2xnroAOvvJbnF1RJKeaeaAtQKBgQDoDFoq/kW9tCelJ4+U\nduPvdEr2bCozXzhe3PK2/roQ8uPN5mlepH6ypX7LQRWre1aQ4IbWhxo8CfvGaEIx\ncyBYjwG6GI6F9cCPAUEYtF9ocO+mCtFUrkUFMm2CJhvRmyBlhSv7ASq4DMM0bz+m\nFUKv88FRdkvuADrUUJ9vQ6vqBwKBgQDliePUQIx5OQDjIFZ77y5IzC+6oY77/ze0\nY/PtidEim2fAcRc2c7c2IH5JSivj4+4m32h6NIqKLtY2ATunh7X16A5VMZiSoFkT\nzEiYk25euVFp/MglMEHetjEotR5wMW3tjPU6t0/NnwCqZm80clK8gtJJZEMP9Eas\nuhuqX6wekwKBgD6UJjT2AcTZMt/dPWFidrH7AMRYA0F7am5a07H6HB+6ASlj/AKk\nBe8TppAV60wlpQDJLFPqd269moK1VzSSwaRgXKzdNoJ19goa4n1RF3HJEzgKLs3R\neZefM90nfdUXKrN2KJg2hljASFx5rAaUMTnWWMopRuzWbwcW/wg4jcI9AoGANDF0\ngrDiwDW8A+k4gRnT1m3HdJKD5r0Tt4r6zkqGKW5Y2yNb+d+6Cy68SIH7FOihIGmw\nYglMbztTLhh9rgxnzbCkga6zWLPpTV0oLLlpYVSWNJlsETi14aRf7Tex4iT7MAbb\nRCymksTS6+w64RwVwBOnKVUJArmy0FfJLqZuhs0CgYBEYxuC6DtIwZi79mMEuYSu\nEMkrZMukY+qic+U2Dt92hDeF9N0FtjTebP8Rqmqu99w99x2NEUcE4HeGJV4+upfG\nTQBjAeJBuzY4rM0FBjSKDFu6dP/VnhWcpcAaXywG8oNMJbR5UYrthWj708noKyNH\nDb1F+32ewgvVWPEMnmz0jg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4jay3@job-tracket.iam.gserviceaccount.com",
+  "client_id": "111201352124130461000",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4jay3%40job-tracket.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

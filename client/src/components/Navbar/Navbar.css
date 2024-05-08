@@ -1,0 +1,12 @@
+.ant-layout-header {
+    background-color: #fff; 
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.50); 
+    z-index: 5000;
+}
+.space{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.ant-space-item{
+    margin-right: 25px
+}

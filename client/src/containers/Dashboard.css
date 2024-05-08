@@ -1,0 +1,75 @@
+.content {
+  padding: 16px;
+  background: #dadbd9;
+  border-radius: 0px;
+}
+
+.space {
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.div-notifications {
+  margin-bottom: 1px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.div-mark-all-read {
+  justify-content: flex-end;
+  margin-left: 985px;
+  cursor: pointer;
+}
+
+.card-1 {
+  height: 310px;
+  width: 90%;
+  margin-left: 70px;
+  margin-bottom: 10px;
+}
+
+.div-list {
+  height: 22px;
+}
+
+.card-2 {
+  height: 310px;
+  width: 90%;
+  margin-left: 70px;
+}
+
+.button {
+  justify-content: flex-end;
+  margin-left: 1130px;
+}
+
+/* Styles for desktop */
+.content {
+  padding: 16px;
+  background: #dadbd9;
+  border-radius: 0px;
+}
+
+.card-1,
+.card-2 {
+  height: 310px;
+  width: 90%;
+}
+
+/* Styles for tablet */
+@media screen and (max-width: 1024px) {
+  .card-1,
+  .card-2 {
+    width: 80%;
+    margin-left: 50px;
+  }
+}
+
+/* Styles for mobile */
+@media screen and (max-width: 768px) {
+  .card-1,
+  .card-2 {
+    width: 100%;
+    margin-left: 0;
+  }
+}
